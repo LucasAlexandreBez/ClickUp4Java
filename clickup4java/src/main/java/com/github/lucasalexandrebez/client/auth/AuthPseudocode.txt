@@ -1,0 +1,10 @@
+Nao havera main
+Todas as class ffuncionais serao static?
+
+Authentication
+// Core only
+Invoke new instance of ClickUpConnFactoryV2
+
+Method GetAuthorizedUser(String authorization)
+    
+    
