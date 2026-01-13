@@ -128,11 +128,8 @@ CreateTaskAttachmentResponse resp = taskAttachments.
 
 ---
 
-## 📚 Documentation
-
-Full documentation and advanced examples can be found here:
-
-👉 **[ClickUp4Java Docs](docs/README.md)** *(TODO)*
+📚 Full documentation available in the Wiki:
+https://github.com/LucasAlexandreBez/ClickUp4Java/wiki
 
 ---
 
