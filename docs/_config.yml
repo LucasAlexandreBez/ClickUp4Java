@@ -1,9 +1,3 @@
 title: ClickUp4Java
-description: Documentation for ClickUp4Java
-theme: minima
-
-# IMPORTANTE: como o site vai ser /ClickUp4Java/
-baseurl: "/ClickUp4Java"
-url: "https://lucasalexandrebez.github.io"
-
-markdown: kramdown
+description: Welcome to the documentation for ClickUp4Java
+theme: jekyll-theme-minimal
