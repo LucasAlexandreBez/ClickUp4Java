@@ -1,0 +1,21 @@
+# Maven
+target/
+*.class
+
+# IDEs
+.vscode
+.idea
+*.iml
+.metadata
+clickup4java/.settings
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets / config
+*.properties
+*.env
