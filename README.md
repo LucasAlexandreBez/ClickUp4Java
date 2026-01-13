@@ -26,6 +26,13 @@ add comments and track execution without leaving the code.
 
 ---
 
+## 📋Contributing
+
+This project is open-source, but all changes to the main branch
+require review and approval by the maintainers to ensure API stability.
+
+---
+
 [Why ClickUp4Java?](#-why-clickup4java) •
 [Who is this for?](#-who-is-this-for) •
 [Features](#-features) •
